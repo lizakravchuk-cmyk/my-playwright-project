@@ -1,0 +1,15 @@
+{
+  "cookies": [
+    {
+      "name": "__cf_bm",
+      "value": "t7tmOcoj4lnWYXTgh6T32rZjuq3P8e4j.iRUjOE.Oeo-1783284031-1.0.1.1-E05lawCK90a3BJm06TC9O6MTwQuHmqsbBxWyGokcrKNOO4wX5YBOxJuJTQfIjUeFWZaZvvNyaYQ9f2co.SrpzWEQAu9wO7HE0V2HurokTqk",
+      "domain": ".www.epam.com",
+      "path": "/",
+      "expires": 1783285831.820591,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    }
+  ],
+  "origins": []
+}
