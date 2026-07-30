@@ -11,5 +11,22 @@
   "devDependencies": {
     "@playwright/test": "^1.61.1",
     "@types/node": "^26.1.0"
-  }
+  },
+  "directories": {
+    "test": "tests"
+  },
+  "dependencies": {
+    "fsevents": "^2.3.2",
+    "playwright": "^1.61.1",
+    "playwright-core": "^1.61.1",
+    "undici-types": "^8.3.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lizakravchuk-cmyk/my-playwright-project.git"
+  },
+  "bugs": {
+    "url": "https://github.com/lizakravchuk-cmyk/my-playwright-project/issues"
+  },
+  "homepage": "https://github.com/lizakravchuk-cmyk/my-playwright-project#readme"
 }
