@@ -4,11 +4,11 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-  "test": "playwright test",
-  "lint:eslint": "eslint .",
-  "lint:prettier": "prettier --check .",
-  "lint": "npm run lint:eslint && npm run lint:prettier"
-},
+    "test": "playwright test",
+    "lint:eslint": "eslint .",
+    "lint:prettier": "prettier --check .",
+    "lint": "npm run lint:eslint && npm run lint:prettier"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
